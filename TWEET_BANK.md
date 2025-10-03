@@ -1,6 +1,6 @@
 # Tweet Bank: libp2p Adoptions
 
-This file contains a ready-to-use set of tweets highlighting **how projects use libp2p in production**.
+This github page contains a ready-to-use set of tweets highlighting **how projects use libp2p in production**.
 They are written to be **technical and informative** — intended as replies under the libp2p or Protocol Labs thread.
 
 
