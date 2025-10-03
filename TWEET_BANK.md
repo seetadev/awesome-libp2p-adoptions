@@ -140,6 +140,7 @@ Espresso relies on **libp2p** to handle cross-chain communication, supporting pr
 
 
 ✅ Each section groups related projects.
+
 ✅ Copy-paste any entry into X/Twitter to share directly.
 
 
