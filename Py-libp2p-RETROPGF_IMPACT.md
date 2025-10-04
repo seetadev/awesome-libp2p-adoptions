@@ -22,7 +22,7 @@ These libraries enable Python developers — especially researchers, data scient
 
 ---
 
-## 🔧 Projects Using py-libp2p in Production
+## 🔧 Projects Using py-libp2p enabling Digital Public Goods Eco-system
 
 ### 1. Federated Learning with Filecoin Storage
 - Repo: [P2P-Federated-Learning](https://github.com/lla-dane/P2P-Federated-Learning)  
