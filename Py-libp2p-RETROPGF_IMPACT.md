@@ -48,6 +48,19 @@ These libraries enable Python developers — especially researchers, data scient
 
 ---
 
+Got it — here’s the concise GitHub-style entry for **ipfs_datasets_py** in the same format:
+
+---
+
+### 4. IPFS Datasets in Python
+
+* Repo: [ipfs_datasets_py](https://github.com/endomorphosis/ipfs_datasets_py/tree/main/ipfs_datasets_py/libp2p_kit)
+* **Description**: A Python library for decentralized dataset management on IPFS with libp2p.
+* **Role of py-libp2p**: Provides peer-to-peer synchronization, sharding, and federated search.
+* **Impact**: Enables scalable, collaborative, and fault-tolerant dataset workflows for AI and data science.
+
+---
+
 ## 📊 Ecosystem Impact
 
 - **Python as an entry point**: Python is the dominant language in AI/ML and research. By maintaining these libraries, we bring new communities into the Filecoin/IPFS ecosystem.  
@@ -65,4 +78,4 @@ These libraries enable Python developers — especially researchers, data scient
 
 ---
 
-👉 If you are building with **py-libp2p, py-cid, or py-multiformats**, please share your project with us — we will continue updating this impact page.  
+👉 If you are building with **py-libp2p, py-cid, or py-multiformats**, please share your project with us at manu@seeta.in — we will continue updating this impact page.  
