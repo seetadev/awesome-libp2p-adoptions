@@ -42,7 +42,7 @@ These libraries enable Python developers — especially researchers, data scient
 
 ### 3. Hypertensor Subnet Framework
 * Website: [Hypertensor Subnet Framework](https://docs.hypertensor.org/)
-* Repo: [Hypertensor Subnet Framework](https://github.com/hayotensor/mesh-template)
+* Github: [Hypertensor Subnet Framework using Py-libp2p](https://github.com/hayotensor/mesh-template)
 * **Description**: A Python framework for building open and decentralized AI subnets using Py-libp2p, DHT-based networking and consensus
 * **Role of py-libp2p**: Powers peer-to-peer communication, routing, and secure messaging between subnet nodes.
 * **Impact**: Provides the foundation for scalable, federated AI systems by integrating libp2p networking with decentralized consensus and storage.
@@ -83,4 +83,4 @@ These libraries enable Python developers — especially researchers, data scient
 
 ---
 
-👉 If you are building with **py-libp2p, py-cid, or py-multiformats**, please share your project with us at manu@seeta.in — we will continue updating this impact page.  
+👉 If you are building with **py-libp2p, py-cid, or py-multiformats**, please share your project with us at manu@seeta.in or manusheel.edu@gmail.com — we will continue updating this impact page.  
