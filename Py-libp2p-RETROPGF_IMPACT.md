@@ -40,7 +40,16 @@ These libraries enable Python developers — especially researchers, data scient
 
 ---
 
-### 3. IPFS Toolkit in Python
+### 3. Hypertensor Subnet Framework
+* Website: [Hypertensor Subnet Framework](https://docs.hypertensor.org/)
+* Repo: [Hypertensor Subnet Framework](https://github.com/hayotensor/mesh-template)
+* **Description**: A Python framework for building open and decentralized AI subnets using Py-libp2p, DHT-based networking and consensus
+* **Role of py-libp2p**: Powers peer-to-peer communication, routing, and secure messaging between subnet nodes.
+* **Impact**: Provides the foundation for scalable, federated AI systems by integrating libp2p networking with decentralized consensus and storage.
+
+----
+
+### 4. IPFS Toolkit in Python
 - Repo: [ipfs_kit_py](https://github.com/endomorphosis/ipfs_kit_py/tree/main/ipfs_kit_py/libp2p)  
 - **Description**: A Python toolkit that integrates IPFS and libp2p.  
 - **Role of py-libp2p**: Core networking backbone.  
@@ -48,7 +57,7 @@ These libraries enable Python developers — especially researchers, data scient
 
 ---
 
-### 4. IPFS Datasets in Python
+### 5. IPFS Datasets in Python
 
 * Repo: [ipfs_datasets_py](https://github.com/endomorphosis/ipfs_datasets_py/tree/main/ipfs_datasets_py/libp2p_kit)
 * **Description**: A Python library for decentralized dataset management on IPFS with libp2p.
