@@ -32,11 +32,18 @@ These libraries enable Python developers — especially researchers, data scient
 
 ---
 
-### 2. Proof of Contribution
+### 2a. Proof of Contribution
 - Repo: [Proof-of-Contribution](https://github.com/seetadev/Proof-of-Contribution)  
 - **Description**: A protocol to verify and measure contributions in decentralized systems.  
 - **Role of py-libp2p**: Powers peer discovery and secure messaging.  
-- **Impact**: Enables transparent reputation and accountability in DAOs and collaborative ecosystems.  
+- **Impact**: Enables transparent reputation and accountability in DAOs and collaborative ecosystems.
+
+### 2b. Eth Elder Ease: Enhancing Independent Living with AI, Web3, Storacha, Py-Libp2p and Robotics
+- Repo: [Eth Elder Ease](https://github.com/seetadev/EthElderEase)
+- Demo Video: [Eth Elder Ease](https://www.youtube.com/watch?v=MXqc-0FwPn4)
+- **Description**: A decentralized assistive living platform using AI, Web3, and robotics to support independent living for the elderly. It leverages Filecoin’s storage via Storacha and peer-to-peer networking through py-libp2p for secure, privacy-preserving care solutions.
+- **Role of py-libp2p**: Enables decentralized communication between AI agents, edge devices, and robotic units for real-time, low-latency interaction.
+- **Impact**: Promotes autonomy, safety, and well-being for seniors while demonstrating how Filecoin and libp2p can power socially impactful, decentralized AI and robotics systems.
 
 ---
 
