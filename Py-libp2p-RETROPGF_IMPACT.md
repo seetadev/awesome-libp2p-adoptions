@@ -22,10 +22,11 @@ These libraries enable Python developers — especially researchers, data scient
 
 ---
 
-## 🔧 Projects Using py-libp2p enabling Digital Public Goods Eco-system
+## 🔧 New Projects in September-October'2025 Using py-libp2p enabling Digital Public Goods Eco-system
 
 ### 1. Federated Learning with Filecoin Storage
 - Repo: [P2P-Federated-Learning](https://github.com/lla-dane/P2P-Federated-Learning)  
+- Demo: [P2P-Federated-Learning Demo Link](https://www.loom.com/share/49afb7fc3a29451482d053b8bf19aa62) 
 - **Description**: A framework where participants train ML models collaboratively without central servers.  
 - **Role of py-libp2p**: Provides peer-to-peer communication layer; Filecoin used for model/data storage.  
 - **Impact**: Demonstrates how libp2p enables decentralized AI/ML workflows in Python.  
