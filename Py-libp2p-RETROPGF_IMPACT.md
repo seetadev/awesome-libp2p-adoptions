@@ -46,6 +46,10 @@ These libraries enable Python developers — especially researchers, data scient
 - **Role of py-libp2p**: Enables decentralized communication between AI agents, edge devices, and robotic units for real-time, low-latency interaction.
 - **Impact**: Promotes autonomy, safety, and well-being for seniors while demonstrating how Filecoin and libp2p can power socially impactful, decentralized AI and robotics systems.
 
+
+
+
+
 ---
 
 ### 3. Hypertensor Subnet Framework
